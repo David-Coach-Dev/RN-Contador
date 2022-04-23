@@ -1,6 +1,6 @@
 <h1 align="center">RN Contador.</h1>
 <p align="center">
-  Esta es una aplicación de un contador realizada en React Naive y TypeScript.
+  Esta es una aplicación de un contador realizada en React Native y TypeScript.
 </p>
 <h1></h1>
 <h2 align="center">Herramientas</h2>
