@@ -16,12 +16,13 @@ export const ContadorScreen = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    backgroundColor: '#91c8ff',
     justifyContent: 'center',
   },
   title: {
     fontSize: 40,
-    top: -15,
     textAlign: 'center',
+    color: '#0000a0',
   },
 });
 

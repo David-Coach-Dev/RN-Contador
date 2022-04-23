@@ -1,6 +1,6 @@
 <h1 align="center">RN Contador.</h1>
 <p align="center">
-  Esta es una aplicación en React Naive para Ios y Android.
+  Esta es una aplicación de un contador realizada en React Naive y TypeScript.
 </p>
 <h1></h1>
 <h2 align="center">Herramientas</h2>
@@ -21,6 +21,12 @@
   </p>
 
     npx react-native init AwesomeTSProject --template react-native-template-typescript
+
+  <p align="center">
+   para ver ña lista de dispositivos donde se va ejecutar la App
+  </p>
+
+    adb devices
 
   <p align="center">
    Comando para ejecutar la app en android
