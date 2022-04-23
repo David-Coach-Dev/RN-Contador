@@ -16,25 +16,36 @@
 </p>
 <h1></h1>
 <h2 align="center">Nota</h2>
+<br>
+  <p align="center">
+    Recuerde reconstruir los módulos utilice el comando
+  </p>
+
+    npm install
+  
+  <br>
   <p align="center">
    Comando para crear un proyecto de RN con TS
   </p>
 
     npx react-native init AwesomeTSProject --template react-native-template-typescript
 
+  <br>
   <p align="center">
-   para ver ña lista de dispositivos donde se va ejecutar la App
+   para ver la lista de dispositivos donde se va ejecutar la App
   </p>
 
     adb devices
 
+  <br>
   <p align="center">
    Comando para ejecutar la app en android
   </p>
 
     npx react-native run-android
 
-<p align="center">
+  <br>
+  <p align="center">
    Comando para ejecutar la app en ios
   </p>
 
